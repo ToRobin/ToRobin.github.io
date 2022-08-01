@@ -1,21 +1,19 @@
-title: Site Title
+title: Becoming Tech Librarian
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Librarianship Journey
 permalink: '/:title/'
 
 # Author settings
-author: Your Name # add your name
+author: Tori
 author-pic: yosh-ginsu.jpg
-about-author: About you
+about-author: Learning to be a Tech Librarian
 
 # Contact links
-email: # Add your Email address
+email: torirobinson@wayne.edu
 phone: # Add your Phone number
 website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: #Add your Github handle
+linkedin: www.linkedin.com/in/tori-robinson61822 # Add your Linkedin handle
+github: https://torobin.github.io/ #Add your Github handle
 twitter:  # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
